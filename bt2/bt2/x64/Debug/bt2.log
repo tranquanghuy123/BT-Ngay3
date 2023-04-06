@@ -1,0 +1,4 @@
+﻿  bt2.cpp
+D:\Lap trình C++\Ngày 3\bt2\bt2\bt2.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Lap trình C++\Ngày 3\bt2\bt2\bt2.cpp(12,29): warning C4305: '=': truncation from 'int' to 'bool'
+D:\Lap trình C++\Ngày 3\bt2\bt2\bt2.cpp(12,19): error C2106: '=': left operand must be l-value
